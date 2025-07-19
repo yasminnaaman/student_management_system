@@ -29,6 +29,6 @@ A full-stack web application designed to manage student records with role-based 
 Yasmin Naaman
 🎓 Business & IT Student @ Mount Kenya University
 💼 Frontend Developer | Virtual Assistant | Data Scientist |Machine Learning Engineer
-🌐 LinkedIn
+🌐 LinkedIn: www.linkedin.com/in/yasmin-naaman-b57964302
 📫 Email: yasminnaaman221@gmail.com
    
